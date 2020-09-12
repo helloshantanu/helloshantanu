@@ -16,7 +16,7 @@
 - 💬 Ask me about Entrepreneurship, web development, and tech related career advice.
 - 📫 How to reach me: Jain.shantanu@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I read everday atleast 50 pages of any book and also i love CSGO.
+- ⚡ Fun fact: I love smell of new books and also i love CSGO.
 
 <br>
 <br>
