@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I love smell of new books and also i love CSGO.
 
 <br>
-> "Any Fool can know, the point is to understand" -Albert Einstein
+>Any Fool can know, the point is to understand -Albert Einstein
 <br>
 <br>
 <a href="https://twitter.com/airgonaut_mind">
