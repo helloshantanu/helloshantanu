@@ -1,12 +1,13 @@
-<a href="https://www.helloshantanu.com" target="_blank"><img align="left" alt="Logo" width="300px" src="/logo_eduvoke/HelloShantanu.png" /></a>
-<br> <br> <br> <br>
+<a href="https://www.helloshantanu.com" target="_blank"><img align="left" alt="Logo" width="400px" src="/logo_eduvoke/HelloShantanu.png" /></a>
+<br> <br> <br> <br> <br><br>
 
 
 ### Hi, I'm Shantanu Jain 👋
 
 ##### I am a Student Entreprenuer and i love to create new tech everyday, i am currently working on an Edtech Product Eduvoke
 
-
+  
+  <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 
@@ -21,6 +22,7 @@
 
 <br>
 > "Any Fool can know, the point is to understand" -Albert Einstein
+<br>
 <br>
 <a href="https://twitter.com/airgonaut_mind">
   <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
