@@ -2,7 +2,7 @@
 
 ##### I am a Student Entreprenuer and i love to create new tech everyday, i am currently working on an Edtech Product Eduvoke
 
-<img align="right" alt="GIF" height="300px" src="/logo_eduvoke/Slide1.PNG" />
+<a href="https://www.sterlingmedialabs.com/eduvoke"><img align="right" alt="GIF" height="300px" src="/logo_eduvoke/Slide1.PNG" /></a>
 
 
 - 🔭 I’m currently working on Multiple Web based projects. 
