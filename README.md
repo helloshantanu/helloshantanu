@@ -1,4 +1,4 @@
-<img align="left"  width="400px" src="/logo_eduvoke/HelloShantanu.png" />
+<img align="left"  width="400px" src="http://github.com/helloshantanu/helloshantanu/logo_eduvoke/HelloShantanu.png" />
 <br> <br> <br> <br> <br><br>
 
 
