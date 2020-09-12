@@ -1,5 +1,5 @@
-<a href="https://www.helloshantanu.com" target="_blank"><img align="left" alt="Logo" width="400px" src="/logo_eduvoke/HelloShantanu.png" /></a>
-<br> <br> <br> <br> <br>
+<a href="https://www.helloshantanu.com" target="_blank"><img align="left" alt="Logo"  width="400px" src="/logo_eduvoke/HelloShantanu.png" /></a>
+<br> <br> <br> <br> <br><br>
 
 
 ### Hi, I'm Shantanu Jain 👋
