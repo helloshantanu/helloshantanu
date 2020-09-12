@@ -2,6 +2,8 @@
 
 ##### I am a Student Entreprenuer and i love to create new tech everyday, i am currently working on an Edtech Product Eduvoke
 
+![Eduvoke](/logo_eduvoke/Slide1.PNG)
+
 
 - 🔭 I’m currently working on Multiple Web based projects. 
 - 🌱 I’m currently learning OpenGl, React and helping tech community through my writing.
