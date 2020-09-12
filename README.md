@@ -1,11 +1,10 @@
-<a href="https://www.helloshantanu.com" target="_blank"><img align="left" alt="Logo" width="300px" src="/logo_eduvoke/HelloShantanu.png" /></a>
-<br>
--
+
 ### Hi, I'm Shantanu Jain 👋
 
 ##### I am a Student Entreprenuer and i love to create new tech everyday, i am currently working on an Edtech Product Eduvoke
 
-<a href="https://www.sterlingmedialabs.com/Eduvoke" target="_blank"><img align="right" alt="GIF" height="300px" src="/logo_eduvoke/Slide1.PNG" /></a>
+
+<a href="https://www.helloshantanu.com" target="_blank"><img align="right" alt="Logo" width="200px" src="/logo_eduvoke/HelloShantanu.png" /></a>
 
 
 - 🔭 I’m currently working on Multiple Web based projects. 
