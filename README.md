@@ -1,6 +1,7 @@
 <a href="https://www.helloshantanu.com" target="_blank"><img align="left" alt="Logo" width="300px" src="/logo_eduvoke/HelloShantanu.png" /></a>
 <br> <br> <br> <br>
-> "Any Fool can know, the point is to understand" -Albert Einstein
+
+
 ### Hi, I'm Shantanu Jain 👋
 
 ##### I am a Student Entreprenuer and i love to create new tech everyday, i am currently working on an Edtech Product Eduvoke
@@ -19,6 +20,7 @@
 - ⚡ Fun fact: I love smell of new books and also i love CSGO.
 
 <br>
+> "Any Fool can know, the point is to understand" -Albert Einstein
 <br>
 <a href="https://twitter.com/airgonaut_mind">
   <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
