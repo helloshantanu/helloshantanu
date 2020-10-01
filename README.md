@@ -40,6 +40,8 @@
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
 </a>
 
+<br>
+
 ## Github Stats
 
 ![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=helloshantanu&show_icons=true&theme=algolia)
