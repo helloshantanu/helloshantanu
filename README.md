@@ -1,6 +1,5 @@
 <img align="left"  width="400px" src="https://github.com/helloshantanu/helloshantanu/blob/master/logo_eduvoke/HelloShantanu.png" />
-<br> <br> <br> <
-
+<br> <br> <br> 
 
 ### Hi, I'm Shantanu Jain 👋
 
