@@ -15,7 +15,7 @@
 - 👯 I’m willing to collaborate on building communitites, and research projects in Web Dev and flutter.
 - 🤔 I’m looking for help in my Edtech project from the community.
 - 💬 Ask me about Entrepreneurship, web development, and tech related career advice.
-- 📫 How to reach me : Jain.shantanu@gmail.com
+- 📫 How to reach me : Jain.shantanu@outlook.com
 - 😄 Open to collaborations in any type of project.
 - ⚡ Fun fact: I love smell of new books and also i love CSGO.
 
