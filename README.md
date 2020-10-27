@@ -44,3 +44,5 @@
 ## Github Stats
 
 ![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=helloshantanu&count_private=true&show_icons=true&theme=algolia)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
