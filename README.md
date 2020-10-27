@@ -24,16 +24,16 @@
 <br>
 <br>
 <a href="https://twitter.com/airgonaut_mind">
-  <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/techshantanu">
-  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/helloshantanu">
-  <img align="left" alt="Shubham's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://medium.com/@helloshantanu">
-  <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 <a href="https://www.buymeacoffee.com/helloshantanu">
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
@@ -43,4 +43,4 @@
 
 ## Github Stats
 
-![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=helloshantanu&count_private=true&show_icons=true&theme=algolia)
+![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=helloshantanu&count_private=true+100&show_icons=true&theme=algolia)
